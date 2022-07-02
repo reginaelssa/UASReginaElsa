@@ -40,7 +40,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="NAMA    :  Selgi Agilsa Ebimbi"
+            android:text="NAMA    : Regina Elsa Widiyanti"
             android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -48,7 +48,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="NIM        :  20.01.53.0035"
+            android:text="NIM        :  20.01.53.0065"
             android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="bold" />
