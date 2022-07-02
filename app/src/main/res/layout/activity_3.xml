@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    tools:context=".Activity3">
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="wrap_content"
+        android:layout_height="500dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="0dp"
+        android:textColor="@color/black"
+        tools:listitem="@layout/activity_list_data" />
+
+    <LinearLayout
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
+        android:orientation="horizontal"
+        android:gravity="bottom|center"
+        tools:ignore="MissingConstraints">
+
+        <Button
+            android:id="@+id/home"
+            android:layout_width="wrap_content"
+            android:background="@drawable/custom1"
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:insetTop="0dp"
+            android:insetBottom="0dp"
+            android:text="Home"
+            android:onClick="MainActivity"
+            android:textColor="#FFBB86FC"
+            app:iconPadding="0dp" />
+
+        <Button
+            android:id="@+id/sensor"
+            android:layout_width="wrap_content"
+            android:background="@drawable/custom1"
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:onClick="Activity2"
+            android:insetLeft="0dp"
+            android:insetTop="0dp"
+            android:insetRight="0dp"
+            android:insetBottom="0dp"
+            android:text="Sensor"
+            android:textColor="#FFBB86FC" />
+
+        <Button
+            android:id="@+id/database"
+            android:layout_width="wrap_content"
+            android:background="@drawable/custom1"
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:insetTop="0dp"
+            android:insetBottom="0dp"
+            android:enabled="false"
+            android:text="Database"
+            android:textColor="#000000" />
+    </LinearLayout>
+
+</RelativeLayout>
