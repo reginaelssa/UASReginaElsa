@@ -1,7 +1,6 @@
 # UAS-SensorOrientation
 Sensor Orientation
 
-![Screenshot (90)](https://user-images.githubusercontent.com/107203004/176987159-ed9f7eeb-45b8-475e-abc3-8e864ea20fe6.png)
-
-![Screenshot (91)](https://user-images.githubusercontent.com/107203004/176987162-29facd46-b0fe-42c0-a125-af5c6f4fc919.png)
-![Screenshot (92)](https://user-images.githubusercontent.com/107203004/176987170-c915d7b4-f740-4b30-8681-d2d24a72a710.png)
+![Screenshot (100)](https://user-images.githubusercontent.com/107203004/177036471-6745145a-2c42-432f-ae38-6995d0feab43.png)
+![Screenshot (97)](https://user-images.githubusercontent.com/107203004/177036477-a1f2118c-26c6-46f4-aa2f-0778a438c17a.png)
+![Screenshot (99)](https://user-images.githubusercontent.com/107203004/177036480-75bc7d47-800f-4264-a33f-3b27c9d1a3f9.png)
